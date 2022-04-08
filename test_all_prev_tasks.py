@@ -87,11 +87,6 @@ def validate_ip(ip_address):
 
    return ip_validate
 
-
-validate_ip("192.168.1.42")
-validate_ip("192.168.1.424")
-
-
 # task 3
 
 
